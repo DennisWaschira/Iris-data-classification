@@ -7,12 +7,10 @@ will use for this project are Iris Setosa, Iris versicolor and Iris Virginica, t
 The project is built using python.
 
 The machine learning used are:
-
      1. KNearest Neighbour(KNN).
      2. Support Vector Machine(SVM).
    >>Turned out they both had the same accuraccy score of 93.33
 
 Leave a star and if you have any question regarding the project you can find me on:
-
      > https://www.linkedin.com/in/dennis-wachira-032797247/
      > https://twitter.com/__BushMan
